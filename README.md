@@ -1,1 +1,1 @@
-# node-group-chat
+# simple-group-chat
